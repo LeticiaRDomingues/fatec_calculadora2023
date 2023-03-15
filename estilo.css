@@ -1,0 +1,20 @@
+body{
+    background-color: #495250;
+    display: grid;
+    height: 10cm;
+    place-items: center;
+    justify-content: center;
+    text-align:center;
+    display: flexbox;
+ }
+ 
+ .Botao{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+ }
+
+ .texto{
+    font-size: 20px;
+    
+}
